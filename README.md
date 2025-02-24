@@ -1,4 +1,4 @@
-# 2PlayerTicTacToe
+# 2 Player TicTacToe In Python
 
 A simple yet professional implementation of the classic Tic-Tac-Toe game using Python and Tkinter. This project features a clean and interactive user interface with score tracking, turn indicators, color-coded moves, and a structured layout for an enhanced user experience.
 
